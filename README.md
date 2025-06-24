@@ -1,4 +1,4 @@
-This is a fork of @iamcal's repository. I forked it so that I could put it in an iframe without using up his bandwidth
+This is a fork of iamcal's repository. I forked it so that I could put it in an iframe without using up his bandwidth
 
 # Minecraft Enchantment Ordering Tool
 
